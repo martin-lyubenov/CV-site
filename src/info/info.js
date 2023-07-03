@@ -186,11 +186,18 @@ export const info = {
 
   "projects": [
     {
-      "alt": "Photo of a shopping cart made with React",
-      "desc": "A simple Shopping cart made with React with the focus on the Context API.\n      What is can do: \n      add items to the shopping cart, remove items from the shopping cart, calculate the total cost, display the total amount of items, even if the cart is minimized, sort the items ( via the size buttons), loads a set of items from Firebase, it has a custom HTTP request hook.",
-      "href": "https://react-shopping-cart-26dc4.web.app/",
+      "alt": "Photo of an online shop",
+      "desc": "Work in progress.\n A concept Online shop made with React with the focus on Redux and Router. \n What is can do: \n create user account, login/logout, add items, amend items ( if you are the owner), add items to shopping cart ( every user has his own shopping cart, which persists even if you leave the page or logout), navigate to several 'pages', add items to the shopping cart, remove items from the shopping cart, calculate the total cost, display the total amount of items, even if the cart is minimized.",
+      "href": "https://martin-lyubenov.github.io/react-online-shop/",
+      "imageUrl": "https://github.com/martin-lyubenov/react-online-shop/assets/52383146/482ad5c8-cf9d-4220-aab0-15ec8d79f28a",
+      "name": "React Online Shop (BaaS - Back4App)"
+    },
+    {
+      "alt": "Photo of a shopping cart",
+      "desc": "A simple Shopping cart made with React with the focus on the Context API.\n      What is can do: \n      add items to the shopping cart, remove items from the shopping cart, calculate the total cost, display the total amount of items, even if the cart is minimized, sort the items ( via the size buttons), loads a set of items from Back4App, it has a custom HTTP request hook.",
+      "href": "https://martin-lyubenov.github.io/shopping-cart/",
       "imageUrl": "https://user-images.githubusercontent.com/52383146/242274999-2444ada0-a0fb-4cdb-861e-6a643f132001.jpg",
-      "name": "React Shopping Cart (BaaS - Firebase)"
+      "name": "React Shopping Cart (BaaS - Back4App)"
     },
     {
       "alt": "A picture of the arcade game - Space invaders",

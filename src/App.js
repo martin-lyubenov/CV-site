@@ -10,6 +10,7 @@ const ProjectsPage = lazy(() => import("./pages/Projects"));
 const EducationCareerPage = lazy(() => import("./pages/EducationCareer"));
 const ContactsPage = lazy(() => import("./pages/Contacts"));
 
+// hash router used as gh-pages does not support browser routing
 const router = createHashRouter([
   {
     path: "/",
