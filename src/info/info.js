@@ -186,6 +186,13 @@ export const info = {
 
   "projects": [
     {
+      "alt": "A picture of the arcade game - Space invaders",
+      "desc": "This is a recreation of the all time classic arcade game Space Invaders. It was made using purely HTML, CSS and plain JS ( with TS) and bundled with Webpack. You can play the game using the arrow keys to move and the spacebar to shoot. \n        You have 3 lives and get a new one after every 1000pts. \n        Things to bear in mind:\n        The game is meant to be played on a screen which is at least 1024px wide;\n  There is a 'soundtrack' which will begin playing after starting the game;",
+      "href": "https://martin-lyubenov.github.io/space-invaders/?fbclid=IwAR2HDSRMTgZIKLP4OgH3Od8HU8tCwODI5B0rraiWz3RNnSMt9cbbFnEvqDw",
+      "imageUrl": "https://user-images.githubusercontent.com/52383146/242269738-58c7d81b-64dc-44d0-998e-463c6e5ce31c.png",
+      "name": "Space Invaders"
+    },
+    {
       "alt": "Photo of an online shop",
       "desc": "Work in progress.\n A concept Online shop made with React with the focus on Redux and Router. \n What is can do: \n create user account, login/logout, add items, amend items ( if you are the owner), add items to shopping cart ( every user has his own shopping cart, which persists even if you leave the page or logout), navigate to several 'pages', add items to the shopping cart, remove items from the shopping cart, calculate the total cost, display the total amount of items, even if the cart is minimized.",
       "href": "https://martin-lyubenov.github.io/react-online-shop/",
@@ -199,13 +206,7 @@ export const info = {
       "imageUrl": "https://user-images.githubusercontent.com/52383146/242274999-2444ada0-a0fb-4cdb-861e-6a643f132001.jpg",
       "name": "React Shopping Cart (BaaS - Back4App)"
     },
-    {
-      "alt": "A picture of the arcade game - Space invaders",
-      "desc": "This is a recreation of the all time classic arcade game Space Invaders. It was made using purely HTML, CSS and plain JS. It was one of my first projects where I was mainly experimenting with DOM manipulation. You can play the game using the arrow keys to move and the spacebar to shoot. \n        You have 3 lives and get a new one after every 1000pts. \n        Things to bear in mind:\n        The game is meant to be played on a screen which is at least 1024px wide;\n        The game was made before I knew what JS modules were so all of the code is concentrated into just a couple of files;\n        There is a 'soundtrack' which will begin playing after starting the game;",
-      "href": "https://martin-lyubenov.github.io/space-invaders/?fbclid=IwAR2HDSRMTgZIKLP4OgH3Od8HU8tCwODI5B0rraiWz3RNnSMt9cbbFnEvqDw",
-      "imageUrl": "https://user-images.githubusercontent.com/52383146/242269738-58c7d81b-64dc-44d0-998e-463c6e5ce31c.png",
-      "name": "Space Invaders"
-    },
+   
     {
       "alt": "Generic picture of a programming project",
       "desc": "A list of the of a few Frontend Mentor challenges I have done.",
